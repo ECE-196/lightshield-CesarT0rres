@@ -1,14 +1,14 @@
 # CHANGELOG
 
-## {04/03/24}
+## {04/05/24}
 ### Contributors
 Cesar Torres Sandoval
 
 ### Added
-Lightshield Soldering Complete
+Lightshield Soldering Image
 
 ### Changed
-...
+File name from Submission to submission
 
 ### Removed
-...
+Capital S replaced with s
